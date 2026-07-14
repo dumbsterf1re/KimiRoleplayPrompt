@@ -20,8 +20,8 @@ This framework encourages the AI to behave like an experienced collaborative nov
 
 ## Download
 
-- [Download the Word version](Kimi-Roleplay-Prompt-v1.0.docx)
-- [Read the prompt directly on GitHub](Kimi-Roleplay-Prompt-v1.0.md)
+- 📄 [Download the Word version](KimiPrompt.docx)
+- 📖 [Read the prompt directly on GitHub](KimiPrompt71426)
 
 ## Recommended Use
 
