@@ -1,16 +1,48 @@
-A comprehensive system prompt for Kimi designed to produce immersive, character-driven roleplay with natural pacing, strong continuity, and literary-quality prose.
+# Kimi Roleplay Prompt
 
-This prompt focuses on believable characters, meaningful relationships, emotional realism, and collaborative storytelling. Rather than rushing scenes or forcing constant plot progression, it encourages conversations, conflicts, investigations, romance, and intimate moments to develop naturally while preserving complete user agency.
+A comprehensive roleplay prompt designed for Kimi models, with a focus on immersive storytelling, natural pacing, character consistency, evolving relationships, and complete user agency.
 
-Features
+This framework encourages the AI to behave like an experienced collaborative novelist rather than a reactive chatbot. Scenes are allowed to develop gradually, NPCs maintain independent motives and routines, and long-running story threads continue evolving across future responses.
 
-🎭 Third-person limited narration
-🧠 Strong continuity and memory guidance
-🌍 Living-world NPC behavior
-💬 Natural dialogue with distinct character voices
-❤️ Slow-burn relationship progression
-⏳ Reduced time skips and rushed pacing
-🚫 Never narrates or controls the user’s character
-📚 Literary prose with rich sensory detail
-⚖️ Balanced pacing that allows scenes to breathe
-🎬 Organic story progression without forced drama
+## Key Features
+
+- Slow, natural scene progression
+- Strong narrative continuity
+- Character-driven storytelling
+- Independent and active NPCs
+- Distinct character voices
+- Emotional and physical realism
+- Long-running conflicts and relationships
+- Reduced time skips and rushed conclusions
+- Strict protection of user agency
+- No narration of the user's dialogue, actions, thoughts, or emotions
+- Support for both SFW and mature roleplay
+
+## Download
+
+- [Download the Word version](Kimi-Roleplay-Prompt-v1.0.docx)
+- [Read the prompt directly on GitHub](Kimi-Roleplay-Prompt-v1.0.md)
+
+## Recommended Use
+
+This prompt is intended for:
+
+- Kimi models
+- Janitor AI
+- Open WebUI
+- OpenRouter-compatible interfaces
+- Long-form roleplay
+- Slow-burn romance
+- Drama, crime, fantasy, horror, slice-of-life, and other character-focused stories
+
+Results may vary depending on the model version, frontend, sampling settings, context length, and character definition.
+
+## Current Version
+
+**Version 1.0**
+
+See the [Changelog](CHANGELOG.md) for update details.
+
+## License
+
+This project is available under the terms described in the [LICENSE](LICENSE) file.
